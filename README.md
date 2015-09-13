@@ -8,3 +8,9 @@ The purpose of the lab was to parallelize 3 out of the 5 problems described in t
 ## Contents
 
 This repository contains solutions for 4 of the aforementioned programming challenges, as well as an input generator for the Haar Wavelets problem.
+
+## License
+
+Copyright (c) 2015 António Nuno Monteiro
+
+This work is distributed under the MIT license. For more information see the [LICENSE](./LICENSE) file.
